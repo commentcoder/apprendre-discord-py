@@ -1,6 +1,11 @@
 # apprendre-discord-py
 
-Série de tutoriels au format vidéo sur la conception de Bots Discord en Python avec [discord.py](https://github.com/Rapptz/discord.py). 
+
+[![Apprendre à faire des bots discord en python avec discord.py](https://img.youtube.com/vi/LHF1dgwW6aw/maxresdefault.jpg)](https://www.youtube.com/watch?v=LHF1dgwW6aw&list=PLeXyx0kOyiXtMBudGqaM8FSEZOlj98azp&index=5)
+
+
+- La formation d'une heure pour apprendre à faire des bots discord en python : [Formation complète](https://www.youtube.com/watch?v=LHF1dgwW6aw&list=PLeXyx0kOyiXtMBudGqaM8FSEZOlj98azp&index=5)
+- Série de tutoriels au format vidéo sur la conception de Bots Discord en Python avec [discord.py](https://github.com/Rapptz/discord.py). 
 
 ## Série en plusieurs vidéos
 
